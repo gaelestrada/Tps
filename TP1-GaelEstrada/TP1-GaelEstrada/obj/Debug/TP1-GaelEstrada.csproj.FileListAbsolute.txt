@@ -1,0 +1,7 @@
+C:\Users\juanl\source\repos\TP1-GaelEstrada\TP1-GaelEstrada\obj\Debug\TP1-GaelEstrada.csproj.AssemblyReference.cache
+C:\Users\juanl\source\repos\TP1-GaelEstrada\TP1-GaelEstrada\obj\Debug\TP1-GaelEstrada.csproj.CoreCompileInputs.cache
+C:\Users\juanl\source\repos\TP1-GaelEstrada\TP1-GaelEstrada\bin\Debug\TP1-GaelEstrada.exe.config
+C:\Users\juanl\source\repos\TP1-GaelEstrada\TP1-GaelEstrada\bin\Debug\TP1-GaelEstrada.exe
+C:\Users\juanl\source\repos\TP1-GaelEstrada\TP1-GaelEstrada\bin\Debug\TP1-GaelEstrada.pdb
+C:\Users\juanl\source\repos\TP1-GaelEstrada\TP1-GaelEstrada\obj\Debug\TP1-GaelEstrada.exe
+C:\Users\juanl\source\repos\TP1-GaelEstrada\TP1-GaelEstrada\obj\Debug\TP1-GaelEstrada.pdb
